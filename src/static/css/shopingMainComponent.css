@@ -1,0 +1,13 @@
+.cardContainer{
+    width: 17rem;
+    text-align: center;
+}
+
+.cardContainer img{
+    height: 200px;
+}
+
+.cartImage{
+    width: 1.5rem;
+    height: 1.5rem;
+}
